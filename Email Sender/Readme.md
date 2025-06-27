@@ -5,4 +5,5 @@
 4. `python email_generator_sender.py`
 
 Testing video:- https://drive.google.com/file/d/1Ik_WUlCZF0UnwfZg32kYxvncheCzIJ5f/view?usp=sharing
+
 SS of email recieved:- https://drive.google.com/file/d/1X9SQzJ7SruoPP_NDgQ3uGbEk5Tabi_mI/view?usp=sharing
