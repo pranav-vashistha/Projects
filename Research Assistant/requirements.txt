@@ -1,5 +1,6 @@
 IPython
 langchain_community
+langchain-tavily
 langchain_core
 langchain_openai
 langgraph
